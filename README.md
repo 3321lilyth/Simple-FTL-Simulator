@@ -7,8 +7,8 @@ A small project I practiced during my internship at Phison.
 ## 📁 Folder Structure
 
 ```bash
-FTL_CODE/
-├── .vscode/
+
+Simple-FTL-Simulator/
 ├── Config File/                # Configuration files for SSD settings
 ├── pl-1GC 1log code/           # Main simulator source code and shell script
 ├── result/                     # Output files after running simulation (not pushed)
