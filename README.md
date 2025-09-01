@@ -9,7 +9,7 @@ A small project I practiced during my internship at Phison.
 ```bash
 
 Simple-FTL-Simulator/
-├── Config File/                # Configuration files for SSD settings
+├── Config File/my_config                # Configuration files for SSD settings
 ├── pl-1GC 1log code/           # Main simulator source code and shell script
 ├── result/                     # Output files after running simulation (not pushed)
 └── trace/                      # Large trace files (not pushed)
@@ -75,7 +75,7 @@ We use **Systor '17** traces.
    e.g., <0 W 32116 1.0>
    ```
 
-s
+
 5. Move the following files into your `trace/` folder:
    ```
    rawfile952G_simple_LUN{0,1,2,3,4,6}.txt
